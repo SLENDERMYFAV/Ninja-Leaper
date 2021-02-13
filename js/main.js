@@ -38,7 +38,7 @@ let GameState = {
     preload: function () {
         this.load.image("ninja", "assets/images/ninja.png")
         this.load.image("pole", "assets/images/pole.png")
-        this.load.image("powerbar", "assets/images/powerBar.png")
+        this.load.image("powerbar", "assets/images/powerbar.png")
         this.load.image("gameover", "assets/images/gameover.png")
         this.load.bitmapFont("font", "assets/images/font.png", "assets/font/font.fnt")
         this.load.image('mountains-back', 'assets/images/mountains-back.png')
